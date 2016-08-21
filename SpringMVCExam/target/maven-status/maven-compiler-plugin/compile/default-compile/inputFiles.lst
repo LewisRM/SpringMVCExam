@@ -1,0 +1,12 @@
+D:\Exam\SpringMVCExam\src\main\java\org\entity\Address.java
+D:\Exam\SpringMVCExam\src\main\java\org\service\impl\AddressServiceImpl.java
+D:\Exam\SpringMVCExam\src\main\java\org\entity\Customer.java
+D:\Exam\SpringMVCExam\src\main\java\org\mapper\AddressMapper.java
+D:\Exam\SpringMVCExam\src\main\java\org\service\AddressService.java
+D:\Exam\SpringMVCExam\src\main\java\org\service\impl\LoginServiceImpl.java
+D:\Exam\SpringMVCExam\src\main\java\org\service\CustomerService.java
+D:\Exam\SpringMVCExam\src\main\java\org\mapper\CustomerMapper.java
+D:\Exam\SpringMVCExam\src\main\java\org\controller\CustomerController.java
+D:\Exam\SpringMVCExam\src\main\java\org\service\impl\CustomerServiceImpl.java
+D:\Exam\SpringMVCExam\src\main\java\org\service\LoginService.java
+D:\Exam\SpringMVCExam\src\main\java\org\controller\LoginController.java
